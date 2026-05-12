@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" dir="rtl">
 
 <br/>
 
@@ -6,9 +6,8 @@
 
 <br/>
 
-> **פלטפורמת לימוד וירטואלית לבתי ספר במצבי חירום**
-> *כי החינוך לא נעצר — אף לא בזמן משבר*
-
+### פלטפורמת לימוד וירטואלית לבתי ספר
+**כי החינוך לא נעצר — אף לא במצבי חירום.**
 <br/>
 
 ![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
